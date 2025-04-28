@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/battle">
+        <file>battle/bear.png</file>
+        <file>battle/e_handball_l.gif</file>
+        <file>battle/e_handball_r.gif</file>
+        <file>battle/e_jump_l.gif</file>
+        <file>battle/e_jump_r.gif</file>
+        <file>battle/e_jumpfire_l.gif</file>
+        <file>battle/e_jumpfire_r.gif</file>
+        <file>battle/e_light_l.gif</file>
+        <file>battle/e_light_r.gif</file>
+        <file>battle/e_run_l.gif</file>
+        <file>battle/e_run_r.gif</file>
+        <file>battle/e_runball_l.gif</file>
+        <file>battle/e_runball_r.gif</file>
+        <file>battle/e_stand_l.gif</file>
+        <file>battle/e_stand_r.gif</file>
+        <file>battle/e_walk_l.gif</file>
+        <file>battle/e_walk_r.gif</file>
+        <file>battle/eight1.gif</file>
+        <file>battle/eight2.gif</file>
+        <file>battle/eight3.gif</file>
+        <file>battle/eight6.gif</file>
+        <file>battle/eight9.gif</file>
+        <file>battle/ending.png</file>
+        <file>battle/ko.png</file>
+        <file>battle/leimu.png</file>
+        <file>battle/student.png</file>
+        <file>battle/btn_close.png</file>
+        <file>battle/btn_ret.png</file>
+        <file>battle/win_icon.png</file>
+        <file>battle/cv1.GIF</file>
+        <file>battle/cv2.GIF</file>
+    </qresource>
+</RCC>
