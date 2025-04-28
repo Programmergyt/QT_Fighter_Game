@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/hp">
+        <file>HPBAR/hpbar1.png</file>
+        <file>HPBAR/hpbar2.png</file>
+        <file>HPBAR/hpbar3.png</file>
+        <file>HPBAR/hpbar4.png</file>
+        <file>HPBAR/hpbar5.png</file>
+        <file>HPBAR/hpbar6.png</file>
+        <file>HPBAR/hpbar7.png</file>
+        <file>HPBAR/hpbar8.png</file>
+        <file>HPBAR/hpbar9.png</file>
+        <file>HPBAR/hpbar10.png</file>
+        <file>HPBAR/hpbarr1.png</file>
+        <file>HPBAR/hpbarr2.png</file>
+        <file>HPBAR/hpbarr3.png</file>
+        <file>HPBAR/hpbarr4.png</file>
+        <file>HPBAR/hpbarr5.png</file>
+        <file>HPBAR/hpbarr6.png</file>
+        <file>HPBAR/hpbarr7.png</file>
+        <file>HPBAR/hpbarr8.png</file>
+        <file>HPBAR/hpbarr9.png</file>
+        <file>HPBAR/hpbarr10.png</file>
+    </qresource>
+</RCC>
